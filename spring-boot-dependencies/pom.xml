@@ -169,7 +169,7 @@
 		<spring-retry.version>1.2.0.RELEASE</spring-retry.version>
 		<spring-security.version>5.0.0.BUILD-SNAPSHOT</spring-security.version>
 		<spring-security-jwt.version>1.0.7.RELEASE</spring-security-jwt.version>
-		<spring-security-oauth.version>2.1.0.RELEASE</spring-security-oauth.version>
+		<spring-security-oauth.version>2.1.5.RELEASE</spring-security-oauth.version>
 		<spring-session.version>2.0.0.BUILD-SNAPSHOT</spring-session.version>
 		<spring-social.version>2.0.0.BUILD-SNAPSHOT</spring-social.version>
 		<spring-social-facebook.version>3.0.0.BUILD-SNAPSHOT</spring-social-facebook.version>
@@ -182,7 +182,7 @@
 		<thymeleaf.version>3.0.5.RELEASE</thymeleaf.version>
 		<thymeleaf-spring5.version>3.0.5.M3</thymeleaf-spring5.version>
 		<thymeleaf-extras-springsecurity4.version>3.0.2.RELEASE</thymeleaf-extras-springsecurity4.version>
-		<thymeleaf-layout-dialect.version>2.2.1</thymeleaf-layout-dialect.version>
+		<thymeleaf-layout-dialect.version>2.5.3</thymeleaf-layout-dialect.version>
 		<thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
 		<thymeleaf-extras-java8time.version>3.0.0.RELEASE</thymeleaf-extras-java8time.version>
 		<tomcat.version>8.5.14</tomcat.version>
