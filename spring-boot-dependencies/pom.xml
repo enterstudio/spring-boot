@@ -160,7 +160,7 @@
 		<spring-data-releasetrain.version>Kay-BUILD-SNAPSHOT</spring-data-releasetrain.version>
 		<spring-hateoas.version>0.23.0.RELEASE</spring-hateoas.version>
 		<spring-integration.version>5.0.0.BUILD-SNAPSHOT</spring-integration.version>
-		<spring-kafka.version>2.0.0.M1</spring-kafka.version>
+		<spring-kafka.version>2.7.1</spring-kafka.version>
 		<spring-ldap.version>2.3.1.RELEASE</spring-ldap.version>
 		<spring-loaded.version>1.2.7.RELEASE</spring-loaded.version>
 		<spring-mobile.version>2.0.0.M1</spring-mobile.version>
@@ -169,7 +169,7 @@
 		<spring-retry.version>1.2.0.RELEASE</spring-retry.version>
 		<spring-security.version>5.0.0.BUILD-SNAPSHOT</spring-security.version>
 		<spring-security-jwt.version>1.0.7.RELEASE</spring-security-jwt.version>
-		<spring-security-oauth.version>2.1.0.RELEASE</spring-security-oauth.version>
+		<spring-security-oauth.version>2.1.5.RELEASE</spring-security-oauth.version>
 		<spring-session.version>2.0.0.BUILD-SNAPSHOT</spring-session.version>
 		<spring-social.version>2.0.0.BUILD-SNAPSHOT</spring-social.version>
 		<spring-social-facebook.version>3.0.0.BUILD-SNAPSHOT</spring-social-facebook.version>
