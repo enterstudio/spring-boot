@@ -175,7 +175,7 @@
 		<spring-social-facebook.version>3.0.0.BUILD-SNAPSHOT</spring-social-facebook.version>
 		<spring-social-linkedin.version>2.0.0.BUILD-SNAPSHOT</spring-social-linkedin.version>
 		<spring-social-twitter.version>2.0.0.BUILD-SNAPSHOT</spring-social-twitter.version>
-		<spring-ws.version>2.4.0.RELEASE</spring-ws.version>
+		<spring-ws.version>3.1.4</spring-ws.version>
 		<sqlite-jdbc.version>3.15.1</sqlite-jdbc.version>
 		<statsd-client.version>3.1.0</statsd-client.version>
 		<sun-mail.version>${javax-mail.version}</sun-mail.version>
@@ -185,7 +185,7 @@
 		<thymeleaf-layout-dialect.version>2.2.1</thymeleaf-layout-dialect.version>
 		<thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
 		<thymeleaf-extras-java8time.version>3.0.0.RELEASE</thymeleaf-extras-java8time.version>
-		<tomcat.version>8.5.14</tomcat.version>
+		<tomcat.version>8.5.53</tomcat.version>
 		<undertow.version>1.4.13.Final</undertow.version>
 		<unboundid-ldapsdk.version>3.2.1</unboundid-ldapsdk.version>
 		<webjars-hal-browser.version>3325375</webjars-hal-browser.version>
