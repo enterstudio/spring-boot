@@ -153,7 +153,7 @@
 		<snakeyaml.version>1.18</snakeyaml.version>
 		<solr.version>6.5.0</solr.version>
 		<spock.version>1.0-groovy-2.4</spock.version>
-		<spring.version>5.0.0.BUILD-SNAPSHOT</spring.version>
+		<spring.version>6.1.14</spring.version>
 		<spring-amqp.version>2.0.0.BUILD-SNAPSHOT</spring-amqp.version>
 		<spring-cloud-connectors.version>2.0.0.BUILD-SNAPSHOT</spring-cloud-connectors.version>
 		<spring-batch.version>4.0.0.BUILD-SNAPSHOT</spring-batch.version>
@@ -186,7 +186,7 @@
 		<thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
 		<thymeleaf-extras-java8time.version>3.0.0.RELEASE</thymeleaf-extras-java8time.version>
 		<tomcat.version>8.5.14</tomcat.version>
-		<undertow.version>1.4.13.Final</undertow.version>
+		<undertow.version>2.2.30.Final</undertow.version>
 		<unboundid-ldapsdk.version>3.2.1</unboundid-ldapsdk.version>
 		<webjars-hal-browser.version>3325375</webjars-hal-browser.version>
 		<webjars-locator.version>0.32-1</webjars-locator.version>
